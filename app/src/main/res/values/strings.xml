@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dicoding</string>
+    <string name="loading">Mohon tunggu…</string>
+    <string name="cd_refresh">Segarkan laman</string>
+    <string name="cd_home">Beranda</string>
+    <string name="cd_webpage">Buka di peramban</string>
+    <string name="dialog_exit_title">Sudah di halaman awal</string>
+    <string name="dialog_exit_message">Apakah kamu ingin keluar?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="cancel">Batal</string>
+    <string name="dialog_webpage_title">Buka di peramban</string>
+    <string name="dialog_webpage_message">Apakah kamu ingin membuka laman ini di peramban eksternal?</string>
+</resources>
